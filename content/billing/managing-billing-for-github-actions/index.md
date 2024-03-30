@@ -1,3 +1,4 @@
+![1000021066](https://github.com/github/docs/assets/161018752/01009f40-e58a-48c6-a5ec-06f0c8d95e2c)
 ---
 title: Managing billing for GitHub Actions
 shortTitle: GitHub Actions
